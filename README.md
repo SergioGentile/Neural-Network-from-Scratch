@@ -1,5 +1,5 @@
 # Neural Network from Scratch
-Gradiente, funzione d'attivazione, pesi, bias, loss function :astonished:: sono solo alcuni dei concetti che danno vita ad una Rete Neurale :brain:.<br>
+Gradiente, funzione di attivazione, pesi, bias, loss function :astonished:: sono solo alcuni dei concetti che danno vita ad una Rete Neurale :brain:.<br>
 Questo repository è stato realizzato con lo scopo di riassumere ed esemplificare tutti i concetti fondamentali di una Rete Neurale, affiancando ad ogni step l'implementazione ad esso associata. Questo consentirà di comprendere fino in fondo il funzionamento effettivo della rete :weight_lifting_woman:.</br>
 
 ## Contenuto del Repository :notebook_with_decorative_cover:
